@@ -88,6 +88,7 @@ Draw_Rec_X(-4.5,-3,1,1,0,R)
 Draw_Rec_X(3.5,-3,1,1,0,R)
 Draw_Rec_X(-5.5,-3,1,1,0,G)
 Draw_Rec_X(4.5,-3,1,1,0,G)
+<<<<<<< HEAD
 
 Draw_Rec_X(-5.5,-4,1,1,0,R)
 Draw_Rec_X(4.5,-4,1,1,0,R)
@@ -165,9 +166,92 @@ Draw_Rec_X(3.5,-10,1,1,0,R)
 
 
 
+=======
+>>>>>>> b8190190a8f6d1a93fe9f6d6e3a556d50840fe8b
+
+Draw_Rec_X(-5.5,-4,1,1,0,R)
+Draw_Rec_X(4.5,-4,1,1,0,R)
+Draw_Rec_X(-6.5,-4,1,1,0,G)
+Draw_Rec_X(5.5,-4,1,1,0,G)
+
+Draw_Rec_X(-3.5,-4,1,1,0,R)
+Draw_Rec_X(2.5,-4,1,1,0,R)
+Draw_Rec_X(-4.5,-8,1,5,0,G)
+Draw_Rec_X(3.5,-8,1,5,0,G)
+#以上是肩部
+Draw_Rec_X(-6.5,-5,1,1,0,Y)
+Draw_Rec_X(5.5,-5,1,1,0,Y)
+Draw_Rec_X(-7.5,-5,1,1,0,G)
+Draw_Rec_X(6.5,-5,1,1,0,G)
+
+Draw_Rec_X(-5.5,-6,1,2,0,Y)
+Draw_Rec_X(4.5,-6,1,2,0,Y)
+
+Draw_Rec_X(-7.5,-7,2,2,0,R)
+Draw_Rec_X(5.5,-7,2,2,0,R)
+
+<<<<<<< HEAD
+plt.show()
+=======
+Draw_Rec_X(-8.5,-7,1,2,0,G)
+Draw_Rec_X(7.5,-7,1,2,0,G)
+
+Draw_Rec_X(-7.5,-8,2,1,0,G)
+Draw_Rec_X(5.5,-8,2,1,0,G)
+
+Draw_Rec_X(-5.5,-7,1,1,0,G)
+Draw_Rec_X(4.5,-7,1,1,0,G)
+#以上是手部
+Draw_Rec_X(-3.5,-8,1,5,0,R)
+Draw_Rec_X(2.5,-8,1,5,0,R)
+
+Draw_Rec_X(-2.5,-9,1,4,0,R)
+Draw_Rec_X(1.5,-9,1,4,0,R)
+
+Draw_Rec_X(-1.5,-9,1,3,0,R)
+Draw_Rec_X(0.5,-9,1,3,0,R)
+
+Draw_Rec_X(-0.5,-9,1,2,0,R)
+#以上是躯干的红色部分
+Draw_Rec_X(-1.5,-10,3,1,0,G)
+
+Draw_Rec_X(-3.5,-10,2,1,0,Y)
+Draw_Rec_X(1.5,-10,2,1,0,Y)
+
+Draw_Rec_X(-4.5,-9,2,1,0,Y)
+Draw_Rec_X(2.5,-9,2,1,0,Y)
+#以上是胯部
+Draw_Rec_X(-2.5,-13,1,3,0,G)
+Draw_Rec_X(1.5,-13,1,3,0,G)
+
+Draw_Rec_X(-5.5,-13,3,1,0,G)
+Draw_Rec_X(2.5,-13,3,1,0,G)
+
+Draw_Rec_X(-6.5,-13,1,3,0,G)
+Draw_Rec_X(5.5,-13,1,3,0,G)
+
+Draw_Rec_X(-5.5,-11,1,3,0,G)
+Draw_Rec_X(4.5,-11,1,3,0,G)
+#以上是腿部轮廓
+Draw_Rec_X(-5.5,-12,3,1,0,R)
+Draw_Rec_X(2.5,-12,3,1,0,R)
+
+Draw_Rec_X(-4.5,-11,2,1,0,R)
+Draw_Rec_X(2.5,-11,2,1,0,R)
+
+Draw_Rec_X(-4.5,-10,1,1,0,R)
+Draw_Rec_X(3.5,-10,1,1,0,R)
+#以上是腿部颜色
+
+
+
+
+
+
 
 
 
 
 
 plt.show()
+>>>>>>> b8190190a8f6d1a93fe9f6d6e3a556d50840fe8b
